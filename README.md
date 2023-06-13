@@ -178,39 +178,30 @@ A short questionarie will start, there are a lot of different possible configura
 
 The first question is related to how ESLint will be used, the idea is to be able to check syntax, find problems and enforce code style using a famous and useful style guide
 
-![ESLint1](https://storage.googleapis.com/project_pictures/nodeJS-express-template/ESLint/eslint_001.png)
 
 In the current project, babel will not be used (Mainly used in React, Vue, ...), select "__CommonJS__"
 
-![ESLint2](https://storage.googleapis.com/project_pictures/nodeJS-express-template/ESLint/eslint_002.png)
 
 According to the previous answer, the shown frameworks will not be used
 
-![ESLint3](https://storage.googleapis.com/project_pictures/nodeJS-express-template/ESLint/eslint_003.png)
 
 Neither TypeScript will be used
 
-![ESLint4](https://storage.googleapis.com/project_pictures/nodeJS-express-template/ESLint/eslint_004.png)
 
 "__Node__" is the option to run the code
 
-![ESLint5](https://storage.googleapis.com/project_pictures/nodeJS-express-template/ESLint/eslint_005.png)
 
 As it was mentioned previously, the focus is to use a popular style guide
 
-![ESLint6](https://storage.googleapis.com/project_pictures/nodeJS-express-template/ESLint/eslint_006.png)
 
 There are different kind of style guides, it is not easy to say which one it is better than the others. The selection for this question is the one from __Airbnb__
 
-![ESLint7](https://storage.googleapis.com/project_pictures/nodeJS-express-template/ESLint/eslint_007.png)
 
 There are different formats to create the configuration file, one of the most used is as a **JSON**
 
-![ESLint8](https://storage.googleapis.com/project_pictures/nodeJS-express-template/ESLint/eslint_008.png)
 
 Finally, it is time to install the required dependencies via **npm**
 
-![ESLint9](https://storage.googleapis.com/project_pictures/nodeJS-express-template/ESLint/eslint_009.png)
 
 After that, a new file called __.eslintrc.json__ will be created. This file stores all the configuration that has been just set
 
